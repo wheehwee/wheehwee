@@ -1,10 +1,7 @@
-### Hi there, stranger 👋
+### Alo 👋
 
-Below are some infos about me:
-
-- 📝 **Work-related**: buido.huy99@gmail.com or PM through FB @ [buido.huy.99](https://www.facebook.com/buido.huy.99/)
-- 😉 **Chat stuffs**: Discord @ tudurudu#3271
-- 🌱 Yes 👁️👄👁️
-- I co-wrote the API for our thesis
-- The actual web application: TBA
-- The actual iOS, Android applications: TBA
+- 📧 **Contact me**: buido.huy99@gmail.com
+- 💬 **Discord**: tudurudu#3271
+- 😃 My name is Huy Bui
+- 🌱 Sadge, but I game 🎮 too
+- This is starting to look like a tinder profile lmao, find me on Tinder too
