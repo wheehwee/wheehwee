@@ -11,12 +11,8 @@
 <hr>
 
 <div width="100%" align="center">
-<picture>
-  <img height="200" src="https://github-readme-stats-buidohuy99.vercel.app/api?username=buidohuy99&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-</picture>
-<picture>
-  <img height="200" src="https://github-readme-stats-buidohuy99.vercel.app/api/top-langs/?username=buidohuy99&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide_progress=false&hide=html" />
-</picture>
+    <img height="200" src="https://github-readme-stats-buidohuy99.vercel.app/api?username=buidohuy99&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+      <img height="200" src="https://github-readme-stats-buidohuy99.vercel.app/api/top-langs/?username=buidohuy99&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide_progress=false&hide=html" />
 </div>
 
 <hr>
