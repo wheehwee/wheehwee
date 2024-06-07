@@ -17,9 +17,4 @@
 
 <hr>
 
-<div width="100%" align="center">
-  <a href="https://discord.com/users/126315392724369408">
-        <img height="175px" src="https://lanyard.cnrad.dev/api/126315392724369408?theme=dark&amp;hideDiscrim=true" alt="discord-status">
-    </a>
-</div>
 
