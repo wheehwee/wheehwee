@@ -11,8 +11,8 @@
 <hr>
 
 <div width="100%" align="center">
-    <img height="200" src="https://github-readme-stats-wheehwee-lg565sp1g.vercel.app/api?username=wheehwee&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-      <img height="200" src="https://github-readme-stats-wheehwee-lg565sp1g.vercel.app/api/top-langs/?username=wheehwee&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide_progress=false&hide=html" />
+    <img height="200" src="https://github-readme-stats-wheehwee.vercel.app/api?username=wheehwee&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+      <img height="200" src="https://github-readme-stats-wheehwee.vercel.app/api/top-langs/?username=wheehwee&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=donut&hide_progress=false&hide=html" />
 </div>
 
 <hr>
