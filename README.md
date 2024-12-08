@@ -12,7 +12,7 @@
 
 > <img height="32px" src="https://cdn.7tv.app/emote/61767e69ffc7244d797d22f4/4x.webp">    I build microservices in .NET  <img height="32px" src="https://cdn.7tv.app/emote/61767e69ffc7244d797d22f4/4x.webp">
 
-- Language: English and Vietnamese
+- Language: English
 - Backend dev
 
 ### 📚 I use...
